@@ -1,6 +1,11 @@
 # Distributed-Computing-to-simulate-a-vehicle-with-an-IoT-device
 Distributed Systems project that works as a simulator of a vehicle with an IoT device, sending instantaneous speed messages to a system of event-based communication and group communication.
 
+### Final project of the subject CD (Computação Distribuida)
+
+Mestrado Engenharia Informática e Multimédia - ISEL
+
+
 The system is divided in three layers:
 
 * Generate events randomly with an unique identifier, a location, an event acquisition date, and the velocity value and speed at the given instant of time.
