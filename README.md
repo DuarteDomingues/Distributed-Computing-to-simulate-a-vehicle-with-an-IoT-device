@@ -5,6 +5,7 @@ Distributed Systems project that works as a simulator of a vehicle with an IoT d
 
 Mestrado Engenharia Informática e Multimédia - ISEL
 
+---
 
 The system is divided in three layers:
 
